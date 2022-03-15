@@ -1,15 +1,6 @@
 const { I } = inject();
 
 module.exports = {
-  
-  /*fields:{
-    
-    facebook : 'facebook.com',
-    instagram : 'instagram.com',
-    twitter : 'twitter.com',
-    youtube : 'youtube.com'
-
-  },*/
 
   buttons:{
 
